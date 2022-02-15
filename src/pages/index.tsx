@@ -1,6 +1,5 @@
 import type { NextPage } from 'next'
 import { Button, Box, Footer, Baseboard, Header, Profile } from '../components'
-import Image from 'next/image'
 
 const Home: NextPage = () => {
   return (
@@ -13,9 +12,7 @@ const Home: NextPage = () => {
         <Baseboard width="" height="">
           OLA MUNDO
         </Baseboard>
-        <Header width="" height="">
-          2
-        </Header>
+        <Header>2</Header>
         <Profile width="" height="">
           Teste040
         </Profile>
