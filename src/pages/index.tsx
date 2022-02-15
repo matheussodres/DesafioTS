@@ -8,7 +8,7 @@ const Home: NextPage = () => {
         Olá mundo
       </Box>
       <Footer width="250px" height="20px">
-        ZE POVINHO FICA PUT@
+        DYING LIGHT 2 É UMA MERDA
       </Footer>
       <Baseboard width="" height="">
         OLA MUNDO
@@ -16,6 +16,9 @@ const Home: NextPage = () => {
       <Header width="" height="">
         2
       </Header>
+      <Profile width="" height="">
+        Teste040
+      </Profile>
       <Button background="green">Teste Batata</Button>
     </div>
   )
