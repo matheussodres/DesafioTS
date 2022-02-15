@@ -16,6 +16,9 @@ const Home: NextPage = () => {
       <Header width="" height="">
         2
       </Header>
+      <Profile width="" height="">
+        Teste040
+      </Profile>
       <Button background="green">Teste Batata</Button>
     </div>
   )
